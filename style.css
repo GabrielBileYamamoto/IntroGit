@@ -12,3 +12,11 @@ h1, h2, h3, h4, h5, h5 {
     text-align: center;
     color: darkgreen;
 }
+
+body{
+    background: url("https://cc-prod.scene7.com/is/image/CCProdAuthor/What-is-Stock-Photography_P1_mobile?$pjpeg$&jpegSize=200&wid=720");
+}
+
+ul{
+    color: aqua;
+}
